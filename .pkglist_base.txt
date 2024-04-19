@@ -1,0 +1,16 @@
+git
+neovim
+ttf-jetbrains-mono-nerd
+noto-fonts
+fastfetch
+alacritty
+base-devel
+bash-completion
+firefox
+lazygit
+man-db
+man-pages
+ripgrep
+rsync
+sudo
+tree
